@@ -1,37 +1,32 @@
-## Welcome to GitHub Pages
+## Introduction
 
-You can use the [editor on GitHub](https://github.com/sk335577/sk-wp-adminer-database-manager/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+A wordpress plugin based on an awesome database tool "adminer". Use this plugin to manage all your database activities like executing queries,exporting database,CRUD tasks and much more.You can find this plugin as "SK WP Adminer Database Manager" in wordpress menu..
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+## Why should i use this plugin?
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Well while developing or working on a wordpress project ,we need to manage/add/edit/view data.This can be done using cpanel/hosting server of the project.But this plugin gives you the power to manage your database from the admin panel of the wordpress.
 
-```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
 
-- Bulleted
-- List
+## How to use this plugin?
 
-1. Numbered
-2. List
+1. Download and install this plugin like any other plugin.
+2. A menu will appear in wordpress menu named “SK WP Adminer Database Manager”
+3. Click on this menu to open the plugin page.
+4. Read the instructions there and click on **Open Database** button.
+5. Thats it!!
 
-**Bold** and _Italic_ and `Code` text
+## Screenshots
 
-[Link](url) and ![Image](src)
-```
+![Image](https://s19.postimg.org/ant8xeq1v/image.png)
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+![Image](https://s19.postimg.org/9a1m23qsj/2.png)
 
-### Jekyll Themes
+## Any Issue?
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/sk335577/sk-wp-adminer-database-manager/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+[Click Here an report an issue](https://github.com/sk335577/sk-wp-adminer-database-manager/issues)
 
-### Support or Contact
+## Contact Me
+[Click Here to open my blog sktechblog.com and send me a message](http://sktechblog.com)
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
